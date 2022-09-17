@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "YYYYYYYYGive customers details about the banner image(s) or content on the template.",
+            "text": "its a bit slow Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
           }
         },
@@ -36,7 +36,7 @@
       ],
       "settings": {
         "image": "{{ shop.brand.cover_image }}",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 20,
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
@@ -211,11 +211,11 @@
     }
   },
   "order": [
+    "video",
     "image_banner",
     "rich_text",
     "featured_collection",
     "collage",
-    "video",
     "multicolumn"
   ]
 }
