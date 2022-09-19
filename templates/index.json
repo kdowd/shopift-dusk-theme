@@ -208,6 +208,67 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "166363172361e9ea4a": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16636317230cae5414-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "blah blah",
+            "icon": "banana",
+            "row_content": "<p>blah blahblah blahblah blahblah blah<\/p>",
+            "page": ""
+          }
+        },
+        "16636317230cae5414-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16636317230cae5414-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16636317230cae5414-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16636317230cae5414-0",
+        "16636317230cae5414-1",
+        "16636317230cae5414-2",
+        "16636317230cae5414-3"
+      ],
+      "settings": {
+        "caption": "blah",
+        "heading": "blah blah",
+        "heading_size": "h0",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -216,6 +277,7 @@
     "rich_text",
     "featured_collection",
     "collage",
-    "multicolumn"
+    "multicolumn",
+    "166363172361e9ea4a"
   ]
 }
