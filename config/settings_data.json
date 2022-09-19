@@ -110,10 +110,19 @@
               "color_scheme": "background-1",
               "link": ""
             }
+          },
+          "2288a08f-ae51-415c-ad5c-b07992189549": {
+            "type": "announcement",
+            "settings": {
+              "text": "Welcome to our zzzstore",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "2288a08f-ae51-415c-ad5c-b07992189549"
         ],
         "settings": {
         }
@@ -126,6 +135,7 @@
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
+          "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
           "margin_bottom": 0,
@@ -190,7 +200,10 @@
           "color_scheme": "background-1"
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
