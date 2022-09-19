@@ -15,8 +15,8 @@
     "heading_scale": 105,
     "type_body_font": "dosis_n8",
     "body_scale": 100,
-    "page_width": 1200,
-    "spacing_sections": 0,
+    "page_width": 1500,
+    "spacing_sections": 72,
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
     "buttons_border_thickness": 1,
@@ -99,6 +99,7 @@
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/css-declaration-small.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
