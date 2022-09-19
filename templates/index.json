@@ -196,6 +196,7 @@
     }
   },
   "order": [
+    "video",
     "image_banner",
     "video",
     "rich_text",
